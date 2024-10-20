@@ -2,32 +2,6 @@
 This repository contains a Telegram bot created using Python and the `python-telegram-bot` library. The bot is designed to Zip Files That Upload it is helps to ziping 
  in mobile devices only you have upload your files to Tele bot .
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Commands](#commands)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-
-## Introduction
-
-This Telegram bot allows users to [brief description of the bot's functionality]. It is built using the `python-telegram-bot` library, which provides a convenient wrapper for the Telegram Bot API.
-
-## Features
-
-- [Feature 1]
-- [Feature 2]
-- [Feature 3]
-
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
 
 - Python 3.6 or higher
 - A Telegram account to create a bot and obtain the API token. Follow [this guide](https://core.telegram.org/bots#6-botfather) to create a new bot and get the token.
