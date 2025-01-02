@@ -13,7 +13,7 @@ To set up and run the Telegram bot locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/telegram-bot.git
+    git clone https://github.com/ghdbashen/telegram-bot.git
     cd telegram-bot
     ```
 
